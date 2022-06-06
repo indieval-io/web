@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/indie_validators
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://indieval.io
+  * I am indie_validators (https://keybase.io/indie_validators) on keybase.
+  * I have a public key with fingerprint 1C6C 4399 A64B 7217 B9C0  683F 8B06 B351 C06C 1F87
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010d64dfe7882f5edb93ea71be775a2756f685e51ba5e7fee6096a38091d9249cc0a",
+      "fingerprint": "1c6c4399a64b7217b9c0683f8b06b351c06c1f87",
+      "host": "keybase.io",
+      "key_id": "8b06b351c06c1f87",
+      "kid": "01010d64dfe7882f5edb93ea71be775a2756f685e51ba5e7fee6096a38091d9249cc0a",
+      "uid": "418e5e7c1c21c7781d5b349329b27719",
+      "username": "indie_validators"
+    },
+    "merkle_root": {
+      "ctime": 1654461913,
+      "hash_meta": "a4c095b66aed9d92fad82311a61230a444240b1209a6e64bb26ee722df6baf02",
+      "seqno": 22618487
+    },
+    "revoke": {
+      "sig_ids": [
+        "8eb5056c5fcecf741af8b3d17a7283c0f8bf379d2c61d3654d2339c720287d4e0f"
+      ]
+    },
+    "service": {
+      "hostname": "indieval.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1654461917,
+  "expire_in": 157680000,
+  "prev": "0c28627efa22d350e79c3dea9b18549b5af647b633330f35d52f8a22d58a2c3f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK2AnicrZNbaB1VFIZP0qTVVME8pFgFtYNUkNOwb7MvB2yCNVDv0DxYa/Swb3My
+JmfmZGZybE2ihdoLCFZpxZc2IFQwVUKDUgyi1BICEvElDxXENrVCFEstxjTRXnBP
+VBTx0T0ww5r511r/fGvvqVtXFVoa7p4jo2P9HTMNM6dHBgvqaNs3Q56KzS6vNOT1
+2ZWH7Tc2zcp9ofFKHoDuMpSYwDLOUeBbowS2kkFlGfMlYj4NKPetD5X0LQuspUBQ
+iTkQ0AhEhNZAekUvCKOKTWpJGGWuLNRUEyyEpEQxBJkSGlCOA64AVdiHLtIw4Mwl
+9sZpnuHMKZna9jB271xQXrH3H/r/2ffgSjkCuXUqDTWCmjEOja8wERgJhRiDIhem
+Nolk1Tp1GJnQluuyPzQyi5PUGyl6VZv09dtyEsdZDllnYS6F1CeEQgGx+1GZ9par
+NpOugiQaCF9RKq0Rzk4gDUcYQkkhwkASQhABCiLgCFrHUCFqLUPIBFTJACDnJ7UD
+UeyVEKKQE86chcTW4z6bd0/DiuOXeqVnPG6VD3yq/UBbHTACpRsCNpBJhjjWwEUB
+ZsIgTaHBzq5BGAvNEECcGWJB4D07kndL6qFeKZ4P7J8gHIc/plZL4izWcb/70Jtl
+tbSUc8l21XLlC1aV/6xRVnlaVHEZdZukYRw5Tk75b2Ss6NmdtTCx5TBX+Ixy4Fbe
+x9bzLaARp4jZQDou2AeWCY2NlUJB7hOhfBlQwhTFboEA+8ZHAc+1vrtrHPzNkDqb
+suJKOm6RzAYT642cPtXTVGhoKaxubsxPUaHl5tv+OltzxZsKr3S9uq57W1P1xOFD
+v3RufP4pPra6bR6s+mTtxfeHF4/t63jjVPTD+ce/3rN/UZ98SU/wjxe21vf8+O7B
+rquV79dWHlhY0/ZO56Mnei7K6x3zx+3E5EMLo5fv+nnx2xtvNp6fffsyObC0r3V5
+dPyeS7uHN089duPQteb76p8OjG+53Vvz4P71z81uvTB0x96hA3Ptm14/Wjj7YquZ
+ubD5zvbdX1z9qDHbVDyzcelXvkzr0x9u/+27ia8OfrmhZ/iJDc1vXfl8PpqunWvf
+9h6OLq1bHl868/Bk7+z91S3H2FTfkcmX95bB2Ws7lroGXuvc+cjT28VPXctNQ7d8
+0O3p7nNg/WdXjoxdJ/d2TrcefvJ3rSaHrQ==
+=6rk4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/indie_validators
+
+==================================================================
